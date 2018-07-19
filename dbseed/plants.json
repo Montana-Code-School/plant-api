@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5b50a752d0ea991ba63c1c6e"},"commonName":"Huckleberry","scientificName":"Vaccinium uliginosum","picUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Huckleberry.jpg","edible":true,"__v":0}
+{"_id":{"$oid":"5b50a769d0ea991ba63c1c6f"},"commonName":"Morel Mushroom","scientificName":"Morchella esculenta","picUrl":"https://upload.wikimedia.org/wikipedia/commons/8/82/Morchella_conica_1_beentree.jpg","edible":true,"__v":0}
+{"_id":{"$oid":"5b50aca4bc30911bd2a507b1"},"commonName":"Strawberry","scientificName":"Fragaria ananassa","edible":true,"picUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Strawberry_Plant_in_early_June.JPG","__v":0}
+{"_id":{"$oid":"5b50adb0ec2e0b1d0bc2333b"},"commonName":"Basil","scientificName":"Ocimum basilicum","edible":true,"picUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg/1920px-Basil-Basilico-Ocimum_basilicum-albahaca.jpg","__v":0}
+{"_id":{"$oid":"5b50ae8833b1cf1d523fdf70"},"commonName":"Common Nettle","scientificName":"Toxicodendron radicans","picUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Huckleberry.jpg","edible":false,"__v":0}
+{"_id":{"$oid":"5b50af0e33b1cf1d523fdf71"},"commonName":"Bittersweet","scientificName":" Solanum dulcamara","picUrl":"https://pfaf.org/Admin/PlantImages/SolanumDulcamara2.jpg","edible":false,"__v":0}
