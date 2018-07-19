@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const path = require('path');
 const app = express();
 const router = express.Router();
+const db = process.env.MONGODB_URI || 'mongodb://localhost:27017/plants'
 
 const Plant =  require("./server/models/plant.js");
 
@@ -11,7 +12,7 @@ if (process.env.NODE_ENV !== 'production') {
   require('dotenv').load();
 }
 
-mongoose.connect('mongodb://localhost:27017/plants', { useNewUrlParser: true});
+mongoose.connect(db, { useNewUrlParser: true});
 mongoose.Promise = global.Promise;
 
 // connection error handling
